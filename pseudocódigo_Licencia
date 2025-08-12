@@ -2,4 +2,10 @@ Main
 int edad
 string nombre
 bool tiene licencia
+
+if tiene licencia == true
+nombre tiene licencia 
+
+if not 
+nombre no tiene licencia
 fin main
